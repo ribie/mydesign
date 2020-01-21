@@ -1,0 +1,42 @@
+* { margin: 0; }
+html {
+	font-size: 62.5%;
+	background:#180303;
+	}
+body, a {
+	font-family: Forum, cursive;
+	color: #ecede3;
+	text-decoration: none;
+}
+header {
+	padding: 2rem 0;
+	margin-left: 2.5em
+}
+h1 {
+	font-size: 5rem;
+	text-shadow: 4px 4px 3px rgba(0,0,0,0.3);
+}
+h2 {
+	font-size: 2.5rem;
+	font-weight: 100;
+	margin-left: 10rem;
+}
+h1, h2 { 
+	text-align: center;
+}
+a, p {
+	font-size: 2rem;
+	padding: 2rem;
+}
+a:hover {
+	background: #000;
+}
+p {
+	line-height: 160%;
+	margin: 8rem;
+}
+nav { 
+	background: #350c0c;
+	padding: 1.2rem 0;
+	box-shadow: 0 8px 6px rgba(0,0,0,0.3);
+}
